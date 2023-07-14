@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 import requests
-from itertools import cycle
-import traceback
 import random
 
 from .lookup import filter, dat
