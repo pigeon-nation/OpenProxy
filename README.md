@@ -1,4 +1,5 @@
 # OpenProxy
+> This is currently not under vigourous development, as InternetKit is one of the most foremost non-private projects right now, so this will be returned to when development on the other project has cooled down a little.
 ## Description
 ### What is this?
 OpenProxy is a small library that allows you to look up proxy servers, based off search criteria. You can also connect to those servers, or connect to a random one, via the python requests module.
